@@ -1,0 +1,53 @@
+name: flutter_project_tools
+description: A new Flutter project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cached_network_image: ^3.2.2
+  transparent_image:
+  video_thumbnail: ^0.5.3
+  get_it: ^7.2.0
+  flutter_cache_manager: ^3.3.0
+  shimmer: ^2.0.0
+  logger: ^1.1.0
+  image_picker: ^0.8.6
+  intl: ^0.17.0
+  loading_animation_widget: ^1.2.0+3
+  connectivity_plus: ^2.3.9
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  chewie: ^1.3.5
+  video_player: ^2.4.7
+  path_drawing: ^1.0.1
+  path_provider: ^2.0.11
+  mime: ^1.0.2
+  permission_handler: ^10.2.0
+  open_filex: ^4.3.2
+  universal_html: ^2.0.8
+  url_launcher: ^6.1.7
+  dio: ^4.0.6
+  flutter_local_notifications: ^12.0.4
+  photo_view: ^0.14.0
+  device_info_plus: ^8.0.0
+  flutter_svg:
+  auto_size_text:
+  awesome_dialog:
+  shared_preferences:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/content_not_found.png
